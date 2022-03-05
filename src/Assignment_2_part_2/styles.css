@@ -1,0 +1,17 @@
+.root{
+    -fx-background-color:aquamarine;
+    -fx-font-size: 15pt;
+    -fx-font-family: cursive;
+    -fx-font-style: italic;
+    -fx-text-alignment: center;
+   
+}
+.button {
+    -fx-background-color:indigo;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 7;
+    -fx-text-fill: white;
+
+
+}
